@@ -1,0 +1,66 @@
+/* Sample Webpage Lab  style.css - Note that you need to fill this in yourself! */
+
+body {
+  /* Body styles go here.  Example:
+  font: 12px "Times New Roman", Arial, sans-serif;
+  background: #FFFFFF
+  */
+}
+
+p {
+  /* You can format other tags like <p> also
+}
+
+a {
+  /* Formatting links */
+}
+
+a:active {
+  /*
+Different formatting for active links- there's also
+  a:visited and a:hover */
+}
+
+/* Other possible style blocks go here... */
+
+
+
+
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 15px;
+    color: blue;
+    background-color: #fed;
+    margin: 20px;
+    padding: 0;
+}
+
+
+
+p {
+    letter-spacing: 0.005em;
+    word-spacing: 0.5em;
+    line-height: 1.5;
+    text-align: left;
+    color: red;
+    font-size: 16px;
+}
+
+table {
+    border-style: dashed;
+    border-width: 2.3px;
+    border-left-width: 2.5px;
+    border-right-width: 2.5px;
+    color: blue;
+    border-color: pink;
+    text-align: center;
+
+
+}
+
+
+
+a {
+    color: turquoise
+}
