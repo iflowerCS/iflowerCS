@@ -77,20 +77,23 @@ a {
 .box {
 	border: 1px solid red;
 	padding: 11 px; /*springs pushing outward, increases size*/
-	margin-bottom: 10px;
 	/*background-color: red;*/
 	color: white;
 	font-weight: bold;
 	width: 10px;
 	height: 10px;
 	border-radius: 10px;
-	
+	margin-bottom: 10px;
+	margin-right: 5px;
+	margin-left: 5px;
+	overflow: hidden;
+
 
 }
 
 #mega-box { /*personal identifier*/
 	border: 1px solid blue;
-	padding: 10 px;
+	padding: 100 px;
 	background-color: black;
 
 }
