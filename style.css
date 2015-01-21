@@ -26,11 +26,19 @@ Different formatting for active links- there's also
 
 
 
+h {
+    letter-spacing: 0.005em;
+    word-spacing: 0.1em;
+    line-height: 1.0;
+    text-align: left;
+    color: black;
+    font-size: 16px;
+}
 
 body {
     font-family: arial, helvetica, sans-serif;
     font-size: 17px;
-    color: blue;
+    color: black;
     background-color: #fed;
     margin: 19px;
     padding: 0;
