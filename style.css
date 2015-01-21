@@ -32,7 +32,7 @@ body {
     font-size: 17px;
     color: blue;
     background-color: #fed;
-    margin: 20px;
+    margin: 19px;
     padding: 0;
 }
 
@@ -41,7 +41,7 @@ body {
 p {
     letter-spacing: 0.005em;
     word-spacing: 0.1em;
-    line-height: 1.5;
+    line-height: 1.0;
     text-align: left;
     color: black;
     font-size: 16px;
