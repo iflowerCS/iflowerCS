@@ -51,7 +51,7 @@ p {
     word-spacing: 0.1em;
     line-height: 1.0;
     text-align: left;
-    color: black;
+    color: white;
     font-size: 16px;
 }
 
@@ -70,7 +70,7 @@ table {
 
 
 a {
-    color: brown
+    color: brown;
 }
 
 
@@ -86,15 +86,15 @@ a {
 	margin-bottom: 10px;
 	margin-right: 5px;
 	margin-left: 5px;
-	overflow: hidden;
+	/*overflow: hidden;*/
 
 
 }
 
 #mega-box { /*personal identifier*/
 	border: 1px solid blue;
-	padding: 100 px;
-	background-color: black;
+	padding: 300 px;
+	background-color: beige;
 
 }
 
@@ -111,7 +111,7 @@ a {
 .wrapper {
 border: 1px solid black;
 padding: 10px;
-width: 400px;
+width: 500px;
 margin: 0 auto;
 }
 
