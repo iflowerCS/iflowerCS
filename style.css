@@ -72,3 +72,26 @@ table {
 a {
     color: brown
 }
+
+
+.box {
+	border: 1px solid red;
+	padding: 15 px; /*springs pushing outward, increases size*/
+	margin-bottom: 10px;
+	background-color: red;
+	color: white;
+	font-weight: bold;
+	width: 20px;
+	height: 20px;
+	border-radius: 30px;
+	
+
+}
+
+#mega-box { /*personal identifier*/
+	border: 1px solid blue;
+	padding: 10 px;
+	background-color: black;
+
+
+	 
