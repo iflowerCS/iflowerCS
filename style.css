@@ -93,5 +93,8 @@ a {
 	padding: 10 px;
 	background-color: black;
 
+}
 
-	 
+#nav li {
+	float: left;
+	margin-right: 10px;	 
